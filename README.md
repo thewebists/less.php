@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.org/Less-PHP/less.php.png?branch=master)](https://travis-ci.org/Less-PHP/less.php)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Less-PHP/less.php/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Less-PHP/less.php/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/Less-PHP/less.php/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Less-PHP/less.php/?branch=master)
 
 [Less.php](http://lessphp.gpeasy.com)
 ========
